@@ -1,0 +1,7 @@
+C:\Users\carrascoja\source\repos\ClasesExtension\ClasesExtension\bin\Debug\ClasesExtension.exe.config
+C:\Users\carrascoja\source\repos\ClasesExtension\ClasesExtension\bin\Debug\ClasesExtension.exe
+C:\Users\carrascoja\source\repos\ClasesExtension\ClasesExtension\bin\Debug\ClasesExtension.pdb
+C:\Users\carrascoja\source\repos\ClasesExtension\ClasesExtension\obj\Debug\ClasesExtension.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\ClasesExtension\ClasesExtension\obj\Debug\ClasesExtension.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\ClasesExtension\ClasesExtension\obj\Debug\ClasesExtension.exe
+C:\Users\carrascoja\source\repos\ClasesExtension\ClasesExtension\obj\Debug\ClasesExtension.pdb
